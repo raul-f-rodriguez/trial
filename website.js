@@ -1,1 +1,1 @@
-window.confirm("Hi, how are you today?");
+prompt("Hi, how are you today?");
